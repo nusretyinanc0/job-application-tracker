@@ -108,18 +108,7 @@ Bu komut, yayınlanmaya hazır optimize edilmiş dosyaları `dist/` klasörü i�
 
 ---
 
-## 📋 Eğitim Yönergesi Kontrol Listesi
 
-- [x] Modern JavaScript kütüphanesi seçildi (**ReactJS + TypeScript**)
-- [x] CSS kütüphanesi entegre edildi (**Tailwind CSS**)
-- [x] `Components`, `Pages`, `Interfaces` klasör yapısı oluşturuldu
-- [x] **Ekle (Create)** işlemi gerçekleştirildi
-- [x] **Listele (Read)** işlemi ve filtreleme gerçekleştirildi
-- [x] **Güncelle (Update)** işlemi gerçekleştirildi
-- [x] **Sil (Delete)** işlemi gerçekleştirildi
-- [x] Veriler **LocalStorage** ile kalıcı hale getirildi
-
----
 
 <div align="center">
   <sub>Modern Web Geliştirme & JavaScript Projesi kapsamında geliştirilmiştir.</sub>

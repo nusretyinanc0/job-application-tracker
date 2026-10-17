@@ -6,7 +6,7 @@ Modern JavaScript (ReactJS + TypeScript) ve Tailwind CSS kullanılarak geliştir
 
 > **Not:** Projeyi çalıştırdıktan sonra aldığınız ekran görüntüsünü `screenshot.png` adıyla ana dizine ekleyebilir veya aşağıdaki görsel yolunu güncelleyebilirsiniz.
 
-![Proje Ekran Görüntüsü](./screenshot.png)
+![Proje Ekran Görüntüsü]("C:\Users\nusre\OneDrive\Masaüstü\iş takip atılacak dosyalar\screenshot.jpeg")
 
 ---
 
